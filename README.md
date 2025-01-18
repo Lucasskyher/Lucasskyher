@@ -7,10 +7,10 @@
 ## 📈 Github Analytcs
 <div style="display: flex; justify-content: center;">
   <a href="https://github.com/Lucasskyher">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucasskyher&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Lucasskyher&theme=vue-dark&show_icons=true&hide_border=false&count_private=true"/>
   </a>
   <a href="https://github.com/Lucasskyher">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasskyher&layout=compact&langs_count=7&theme=darcula"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasskyher&theme=vue-dark&show_icons=true&hide_border=false&layout=compact"/>
   </a>
 </div>
 
@@ -30,3 +30,4 @@
   <a href="https://www.linkedin.com/in/lucas-pinheiro-206107221/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:lucasskyher@hotmail.com"><img src="./assets/hotmail.png"></a>
 </div>
+
