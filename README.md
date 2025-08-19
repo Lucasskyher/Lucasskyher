@@ -1,6 +1,6 @@
 ## 🏠 Bem vindo ao Meu Perfil! Sou o Lucas Pinheiro.
 
-- 💻 Atualmente cursando Sistemas de Informação (5º período).
+- 💻 Atualmente cursando Sistemas de Informação (6º período).
 - 📚 Estudando JavaScript, TypeScript e Angular.
 - 🎯 Em busca do primeiro estágio.
 
