@@ -2,7 +2,7 @@
 
 - 💻 Atualmente cursando Sistemas de Informação (6º período).
 - 📚 Estudando JavaScript, TypeScript e Angular.
-- 🎯 Em busca do primeiro estágio.
+- 🎯 Em busca de estágio na área de Desenvolvimento de Software.
 
 ## 📈 GitHub Analytics
 <div style="display: flex; justify-content: center;">
