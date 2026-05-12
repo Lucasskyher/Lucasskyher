@@ -4,6 +4,7 @@
 - 📚 Estudando JavaScript, TypeScript e Angular.
 - 🎯 Em busca de estágio na área de Desenvolvimento de Software.
 
+<!--
 ## 📈 GitHub Analytics
 <div style="display: flex; justify-content: center;">
   <a href="https://github.com/Lucasskyher">
@@ -23,6 +24,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python">
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL">
 </div>
+-->
 
 ## ☎️ Informações para Contato
 
