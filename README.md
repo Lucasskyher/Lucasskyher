@@ -9,14 +9,14 @@
 
 <div>
   <p><b>Linguagens</b></p>
-  <img src="https://skillicons.dev/icons?i=html,css,ts,js,python&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python&theme=dark" alt="Languages" />
 
   <p><b>Frameworks</b></p>
   <img src="https://skillicons.dev/icons?i=angular,tailwind&theme=dark" alt="Frameworks" />
   <br>
 
   <p><b>Ferramentas e Dados</b></p>
-  <img src="https://skillicons.dev/icons?i=postgres,git,vscode&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,postgres&theme=dark" alt="Tools" />
 </div>
 
 ## 📈 Github Estatísticas	
