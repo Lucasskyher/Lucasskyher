@@ -12,7 +12,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,ts,js,python&theme=dark" alt="Languages" />
 
   <p><b>Frameworks</b></p>
-  <img src="https://skillicons.dev/icons?i=angular,styledcomponents&theme=dark" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=angular,tailwind&theme=dark" alt="Frameworks" />
   <br>
 
   <p><b>Ferramentas e Dados</b></p>
