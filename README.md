@@ -4,20 +4,25 @@
 - 📚 Estudando JavaScript, TypeScript e Angular.
 - 🎯 Em busca de estágio na área de Desenvolvimento de Software.
 
-<!--
-## 📈 GitHub Analytics
-<div style="display: flex; justify-content: center;">
-  <a href="https://github.com/Lucasskyher">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucasskyher&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/Lucasskyher">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasskyher&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact"/>
-  </a>
+
+## 🛠️ Conhecimentos Adquiridos
+
+<div>
+  <p><b>Linguagens</b></p>
+  <img src="https://skillicons.dev/icons?i=html,css,ts,js,python&theme=dark" alt="Languages" />
+
+  <p><b>Frameworks</b></p>
+  <img src="https://skillicons.dev/icons?i=angular,styledcomponents&theme=dark" alt="Frameworks" />
+  <br>
+
+  <p><b>Ferramentas e Dados</b></p>
+  <img src="https://skillicons.dev/icons?i=postgres,git,vscode&theme=dark" alt="Tools" />
 </div>
 
-<div style="display: inline_block"><br> <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5"> <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3"> <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript"> <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript"> <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" title="Angular"> <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python"> <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"> </div>
-
--->
+## 📈 Github Estatísticas	
+<div align="center">
+ <img src="https://stats.hyo.dev/api/github-stats-advanced?login=lucasskyher" width="100%" />
+</div> 
 
 ## ☎️ Informações para Contato
 
@@ -26,4 +31,6 @@
   <a href="https://www.linkedin.com/in/lucas-pinheiro-206107221/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:lucasskyher@hotmail.com"><img src="./assets/hotmail.png"></a>
 </div>
+
+
 
