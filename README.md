@@ -16,14 +16,34 @@
 </div>
 -->
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript">
-  <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" title="Angular">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL">
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img alt="HTML5" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+       title="HTML5">
+
+  <img alt="CSS3" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+       title="CSS3">
+
+  <img alt="JavaScript" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+       title="JavaScript">
+
+  <img alt="TypeScript" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+       title="TypeScript">
+
+  <img alt="Angular" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg"
+       title="Angular">
+
+  <img alt="Python" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+       title="Python">
+
+  <img alt="PostgreSQL" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
+       title="PostgreSQL">
 </div>
 
 
