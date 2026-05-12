@@ -14,31 +14,10 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasskyher&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact"/>
   </a>
 </div>
+
+<div style="display: inline_block"><br> <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5"> <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3"> <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript"> <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript"> <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" title="Angular"> <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python"> <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"> </div>
+
 -->
-
-<div style="display: flex; flex-wrap: nowrap; gap: 10px; align-items: center;">
-  <img alt="HTML5" height="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-
-  <img alt="CSS3" height="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-  <img alt="JavaScript" height="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-
-  <img alt="TypeScript" height="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-
-  <img alt="Angular" height="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
-
-  <img alt="Python" height="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
-  <img alt="PostgreSQL" height="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-</div>
-
 
 ## ☎️ Informações para Contato
 
