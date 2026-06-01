@@ -2,7 +2,6 @@
 
 - 💻 Atualmente cursando Sistemas de Informação (7º período).
 - 📚 Estudando JavaScript, TypeScript e Angular.
-- 🎯 Em busca de estágio na área de Desenvolvimento de Software.
 
 
 ## 🛠️ Conhecimentos Adquiridos
